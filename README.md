@@ -12,3 +12,9 @@ I am now going to send this change back to github.  Then i am going to try to wr
 The other thing I need to do is create a new repository in git hub and then clone it over here.  then start the auth.py file and push it back to github.  then, clone it to the laptop, make some more changes, send it back to git and then on to the computer to see if I am actually able to pass shit back and forth.
 
 which has been the goal all along.  Sheesh.
+
+####################################################
+
+Change of tactics based on reading about it five hundred times and finally realizing I'm an idiot for not doing it.
+
+I am going to change this repo over to a storage spot for my dot files...not that they are that amazing.  And, I am going to create a list of the different apps I keep installing when I screw up the current install.
